@@ -2,7 +2,7 @@
 
 it's a simple backdoor which bypasses any av 
 
-make sure to convert the victim.py into victim.exe if the target doesn't dont have py installed 
+make sure to convert the victim.py into victim.exe if you are not sure the target doesn't have py installed 
 
 goto cmd/terminal > pip install pyinstall 
 
